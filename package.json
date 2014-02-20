@@ -1,0 +1,10 @@
+{
+  "name": "charlottegore-tick",
+  "description": "An animation frame tick handler",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-raf": "git://github.com/npmcomponent/component-raf.git"
+  },
+  "license": "MIT"
+}

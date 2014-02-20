@@ -1,4 +1,4 @@
-var raf = require('raf'),
+var raf = require('component-raf'),
 	time = Date.now || function(){ return (new Date()).getTime(); },
 	start = time(),
 	now;

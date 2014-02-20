@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [charlottegore/tick](http://github.com/charlottegore/tick). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/charlottegore-tick`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Tick
 
   A single animationFrame/timeout loop with normalised output across browsers. Callbacks are passed as parameters the time elapsed since the callback was added and a function to stop the callback from being called again.
